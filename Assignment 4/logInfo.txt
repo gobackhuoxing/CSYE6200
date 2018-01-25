@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-10-15T19:11:49</date>
+  <millis>1476573109575</millis>
+  <sequence>0</sequence>
+  <logger>log info</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.registry.RegistryIO</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>This is class information</message>
+</record>
+<record>
+  <date>2016-10-15T19:11:49</date>
+  <millis>1476573109675</millis>
+  <sequence>1</sequence>
+  <logger>log info</logger>
+  <level>INFO</level>
+  <class>RegistryIO</class>
+  <method>save</method>
+  <thread>1</thread>
+  <message>This is save information</message>
+</record>
+<record>
+  <date>2016-10-15T19:11:49</date>
+  <millis>1476573109676</millis>
+  <sequence>2</sequence>
+  <logger>log info</logger>
+  <level>INFO</level>
+  <class>RegistryIO</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>This is load information</message>
+</record>
+</log>
