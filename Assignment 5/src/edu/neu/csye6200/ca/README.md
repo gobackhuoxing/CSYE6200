@@ -1,4 +1,5 @@
 ### Cellular Automaton Java Application									   			
-Designed a Java application with graphical user interface to implement cellular automaton
-Built a multiple threads structure to generate data and draw images 
-Implemented multiple functions for users to create their desired result
+1.Designed a GUI for cellular automaton, which can display more than 10 thousands generations of cells  
+2.Implemented multiple threads to generate data and draw images  
+3.Used Swing, Cellular Automaton
+
